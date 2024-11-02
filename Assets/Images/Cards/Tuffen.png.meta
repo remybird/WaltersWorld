@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tuffen_0: -4564138426080678661
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
