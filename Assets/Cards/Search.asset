@@ -10,14 +10,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 65128b7c936dd42a09af198b3b9601c7, type: 3}
-  m_Name: Bonk
+  m_Name: Search
   m_EditorClassIdentifier: 
-  image: {fileID: 9112034597342347971, guid: 5c1a144cf6d53254fbf7ca9c7380db17, type: 3}
+  image: {fileID: 2737061490664926285, guid: 9d9fad75635766749af01a0485338793, type: 3}
   normal:
-    type: 0
-    name: Bonk
-    energyCost: 1
-    ability: Deal 2 damage
+    type: 1
+    name: Search
+    energyCost: 2
+    ability: Draw two cards
   plus:
     type: 0
     name: Bonk+
